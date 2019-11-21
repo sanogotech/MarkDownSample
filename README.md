@@ -1,11 +1,11 @@
 # MarkDownSample
 
 ### How-to
-To set up the playground, do the following:
+To set up the *** :
 ```
-git clone https://github.com/rjongejan/gitlab-ci-playground.git
-cd gitlab-ci-playground
-ansible-playbook playbook.yml
+git clone https://github.com/user/projet.git
+cd projet
+mvn  clean  install 
 ```
 
 ### Visualization
